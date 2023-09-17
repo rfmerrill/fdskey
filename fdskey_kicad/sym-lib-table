@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sdcard")(type "KiCad")(uri "${KIPRJMOD}/sdcard_footprint/2023-09-17_03-37-48.kicad_sym")(options "")(descr ""))
+)
